@@ -1,12 +1,4 @@
-back to edit
 
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Lucy</h1>
 <h3 align="center">Keyboard-tinkler extraordinaire</h3>
 
