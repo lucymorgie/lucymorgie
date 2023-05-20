@@ -4,7 +4,7 @@ Hi 👋 My name is Lucy
 Keyboard-tinkler extraordinaire
 -------------------------------
 
-When I'm not making space-gun noises on my keytar I can be found practicing and learning code, and gaming in my spare time.
+When I'm not making space-gun noises on my keytar I can be found practicing and learning code, playing gigs and gaming in my spare time.
 
 * 🌍  I'm based in London, UK
 * 💻  Currently studying at the School of Code, Bootcamp 14
